@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Test" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin-forms-client\App.cs">
+    <Files>
+      <File FileName="xamarin-forms-client\View\HomeView.cs" Line="28" Column="28" />
+      <File FileName="d:\Development\C#\xamarin-forms-client\xamarin-forms-client\View\SkillsListView.cs" Line="4" Column="4" />
+      <File FileName="xamarin-forms-client\ViewModel\SkillsListViewModel.cs" Line="12" Column="12" />
+      <File FileName="xamarin-forms-client\View\SkillView.cs" Line="47" Column="47" />
+      <File FileName="xamarin-forms-client\App.cs" Line="4" Column="4" />
+      <File FileName="Android\Properties\AndroidManifest.xml" Line="12" Column="12" />
+      <File FileName="Android\MainActivity.cs" Line="23" Column="23" />
+      <File FileName="xamarin-forms-client\ViewModel\BaseViewModel.cs" Line="26" Column="26" />
+      <File FileName="xamarin-forms-client\View\BaseView.cs" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
