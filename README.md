@@ -15,3 +15,5 @@ Notes
 ===================
 
 I do not have access to Xamarins IOS Licence but it should work fine on there as well if you add an IOS project to the solution.
+
+This is just an example so pretty basic and no tests.
